@@ -1,13 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Home from './component/Home';
+import Dash from './component/new/dash';
+
+
 
 
 function App() {
   return (
     <div>
-      
-      <Home />
+    <Dash/>
   
     </div>
   );
